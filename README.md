@@ -1,6 +1,6 @@
 # NonLocalMeans-Denoising
 
-> Pixelwise Non-local Means Images Denoising. 
+> Pixelwise Non-local Means Images Denoising, auto retains images details,  implemented by MATLAB. 
 
 
 
